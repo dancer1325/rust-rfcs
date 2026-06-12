@@ -1,40 +1,22 @@
 # Rust RFCs - [RFC Book](https://rust-lang.github.io/rfcs/) - [Active RFC List](https://rfcbot.rs/)
 
-[Rust RFCs]: #rust-rfcs
+* "RFC" (request for comments) 
+  * == process /
+    * goal: 💡provide a path for changes | Rust / 
+      * consistent 
+      * controlled💡
 
-The "RFC" (request for comments) process is intended to provide a consistent
-and controlled path for changes to Rust (such as new features) so that all
-stakeholders can be confident about the direction of the project.
+* if the changes are "substantial" -> require
+  * design process
+  * get a consensus |
+    * Rust community
+    * Rust subteams
 
-Many changes, including bug fixes and documentation improvements can be
-implemented and reviewed via the normal GitHub pull request workflow.
-
-Some changes though are "substantial", and we ask that these be put through a
-bit of a design process and produce a consensus among the Rust community and
-the [sub-team]s.
-
-## Table of Contents
-[Table of Contents]: #table-of-contents
-
-  - [Opening](#rust-rfcs)
-  - [Table of Contents]
-  - [When you need to follow this process]
-  - [Sub-team specific guidelines]
-  - [Before creating an RFC]
-  - [What the process is]
-  - [The RFC life-cycle]
-  - [Reviewing RFCs]
-  - [Implementing an RFC]
-  - [RFC Postponement]
-  - [Help this is all too informal!]
-  - [License]
-  - [Contributions]
-
-
-## When you need to follow this process
+## When to use this RFC?
 [When you need to follow this process]: #when-you-need-to-follow-this-process
 
-You need to follow this process if you intend to make "substantial" changes to
+TODO: 
+* You need to follow this process if you intend to make "substantial" changes to
 Rust, Cargo, Crates.io, or the RFC process itself. What constitutes a
 "substantial" change is evolving based on community norms and varies depending
 on what part of the ecosystem you are proposing to change, but may include the
